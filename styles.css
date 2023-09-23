@@ -1,1 +1,26 @@
 /* your code */
+table,th,td{
+	
+	border-collapse: collapse;
+	text-align: left;
+	padding: 12px
+
+	
+	
+	
+}
+th{
+	background-color: #215A8E;
+	color: white;
+}
+table{
+	width: 100%;
+	border: 1px;
+	border: 1pt solid c7cad1;
+	border-radius: 5px;
+	overflow: hidden;
+	
+}
+.col{
+	background-color: #DDDDDD;
+}
